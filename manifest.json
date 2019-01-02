@@ -1,6 +1,7 @@
 {
 	"name": "nckubikefestival",
-	"display": "standalone",
+	"version": "1.0",
+	"display": "fullscreen",
 	"orientation": "portrait"
 }
 
